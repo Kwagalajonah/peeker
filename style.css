@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+ 
+}
+
+    
+.nav-bar >ul{
+    display:flex;
+    list-style:none;
+    background-color:maroon;
+    color:white;
+    padding: 20px 0 20px;
+    margin:4px;
+    justify-content: space-around;
+width: 100%;
+height: 40px;
+border-bottom:5px solid #e4390e;
+}
+.logo{
+    color: blue;
+    font-size: 10px;
+    font-family: Arial;
+    padding: 20px;
+    float: left;
+    padding-top: 20px;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 27px;
+    font-size: 14px;
+    transition: 0.4s ease-in-out;
+}
+body{
+    background-color:white;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+ .h2{
+
+    color: white;
+    font-style: italic;
+    text-align: center;
+    justify-content: center;
+    list
+
+
+    
+}
+.acc{
+    margin-left: 450px;
+    
+}
+.button{
+    margin-left: 450px;
+    color: orange;
+    width: 100%;
+    margin: 8px,o;
+    background-color: #d9534f;
+
+}
+.login-container{
+    background-color: bisque;
+    border-style: hidden;
+    border-radius: 5px;
+    width: 60%;
+    height: 50%;
+    
+
+}
+.button {
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+height:10px ;
+width: 360px;
+border-radius: 20px;
+
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.new{
+height: 20px;
+width: 150px;
+background-color: orange;
+color: azure;
+text-align:center ;
+border-radius: 20px;
+}
+
+.horizontal {
+    margin-top: 10px; /* Adjust margin */
+border: none;
+border-top: 1px solid #da5f13;
+size: 40px;
+height:40px ;
+}
+nav-bar.highlight{
+    columns: orange;
+    font-size: 50px;t
+}
+  .masters{
+    font-style: italic;
+    color: orange;
+    font-size: x-large;
+    font-family: Brush script MT;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: white;
+  }
+      
+.hr{
+    margin-top: -10px;
+    color: orange;
+    
+}
+.checkbox{
+    text-decoration: none;
+    font-size: 13px;
+    margin-top: 7px;
+    color: #da5f13;
+
+}
+.fonten{
+    background-color: #da5f13;
+    color: aliceblue;
+    text-align: center;
+    cursor: pointer;
+    margin: 8px 4px;
+    border-radius: 20px;
+    padding: 8px 28px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+color: chartreuse;
+}
+a:visited{
+    color:a;
+}
+.linkut{
+    color: #da5f13;
+}
+.money{
+    color: orange;
+    margin: 10px;
+    font-family:Brush Script MT;
+    font-size: larger;}
